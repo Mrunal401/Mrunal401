@@ -1,7 +1,8 @@
 <img align="center" height="600" src="https://media4.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"  />
 
 <h1 align="center">Hi 👋, I'm Mrunal Patil</h1>
-<h3 align="center">A passionate fullstack developer pursuing Master's in Computer Science at California State University, Fullerton. Teaching Associate @CSUF. Ex-Accenture.</h3>
+<h3 align="center">A passionate fullstack developer pursuing Master's in Computer Science at California State University, Fullerton.</h3>
+<h3 align="center">Teaching Associate @CSUF | Ex-Accenture</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunal401&label=Profile%20views&color=0e75b6&style=flat" alt="mrunal401" /> </p>
